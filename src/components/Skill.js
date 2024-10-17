@@ -16,7 +16,6 @@ const Skill = () => {
                             <ul>
                                 <li>C#</li>
                                 <li>Java</li>
-                                <li>Swift</li>
                                 <li>JavaScript</li>
                                 <li>Python</li>
                             </ul>
