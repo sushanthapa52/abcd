@@ -26,11 +26,9 @@ const Skill = () => {
                         <div class="skills-category">
                             <h3>Frameworks</h3>
                             <ul>
-                                <li>.NET MAUI</li>
+                                <li>.NET</li>
                                 <li>React Native</li>
-                                <li>AngularJS</li>
                                 <li>Firebase</li>
-                                <li>Node.js</li>
                             </ul>
                         </div>
 
@@ -50,7 +48,6 @@ const Skill = () => {
                         <div class="skills-category">
                             <h3>Platforms</h3>
                             <ul>
-                                <li>iOS</li>
                                 <li>Android</li>
                                 <li>Windows</li>
                                 <li>Web Apps</li>

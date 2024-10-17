@@ -43,7 +43,7 @@ const ContactForm = () => {
           <label htmlFor="name">Name</label>
           <input type="text" id="name" name="name" value={formData.name}
             onChange={handleChange}
-            required placeholder="First_Name Last_Name" />
+            required placeholder="Name" />
 
           <label htmlFor="email">Email Address</label>
           <input type="email" id="email" name="email"
